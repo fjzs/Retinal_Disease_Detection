@@ -1,2 +1,2 @@
-# Retinal_Disease_Detection
+# Retinal Disease Detection
 Retinal disease classification
