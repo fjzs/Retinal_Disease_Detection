@@ -1,4 +1,4 @@
-# Retinal Disease Detection
+# Retinal Disease Classification with Semi-Supervised Learning
 
 In this project the problem of multi disease classification is addressed. Particularly, the focus of this project is on a subset of diseases presented on this Kaggle competition https://www.kaggle.com/c/vietai-advance-course-retinal-disease-detection/overview.
 
